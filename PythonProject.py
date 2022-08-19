@@ -1,5 +1,5 @@
 # Project:
-Print only numaric numbers lesser then 30 and typecast int into str?
+Print only numeric numbers lesser then 30 and typecast int into str?
 
 #Given Data:
 
